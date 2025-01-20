@@ -21,3 +21,9 @@ Welcome to **wordle Game**, a fun and interactive game built entirely with Pytho
 ## ✨ Features
 - **[Feature 1]**: [Short description, e.g., "Dynamic enemies that adapt to player actions."]
 - **[Feature 2]**: [Short description, e.g., "Power-ups
+
+---
+
+## 🎯 Installation
+- **[Feature 1]**: [Short description, e.g., "Dynamic enemies that adapt to player actions."]
+- **[Feature 2]**: [Short description, e.g., "Power-ups
