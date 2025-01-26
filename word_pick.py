@@ -1,3 +1,10 @@
+'''
+This code uses the nltk library to
+ge all the possible 5 letter words in english.
+And this code returns the 5 letter word to the 
+callable function.
+'''
+
 import random
 from nltk.corpus import words
 
