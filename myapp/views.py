@@ -1,3 +1,10 @@
+'''
+This view has no much work to do.
+It is looking for GET requests and it will display the h1 tag in one instance
+and rendering game.html page in another instance.
+
+'''
+
 from django.shortcuts import render
 
 from django.http import HttpResponse
